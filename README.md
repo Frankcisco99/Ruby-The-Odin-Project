@@ -1,1 +1,1 @@
-This is my first git project :D
+Learning Ruby with The Odin Project
